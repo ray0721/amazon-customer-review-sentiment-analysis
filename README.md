@@ -11,7 +11,6 @@ By transforming customer reviews into visual insights, this analysis helps ident
 ## Dashboard Preview
 
 ![Dashboard Preview](images/Dashboard.png)
-
 ---
 
 ## Interactive Dashboard
