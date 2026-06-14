@@ -34,7 +34,7 @@ This Tableau dashboard analyzes Amazon customer reviews to identify sentiment pa
 
 ## Tableau Public Dashboard
 
-[View Interactive Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[View Interactive Dashboard](https://public.tableau.com/app/profile/md.rayhan.hossain3089/viz/AmznCustomerReviewSentimentanalysis/AmazonCustomerReviewSentimentAnalysisDashboard)
 
 ## Tools Used
 
