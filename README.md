@@ -95,14 +95,3 @@ Compares sentiment performance across countries to uncover market-specific custo
 
 ---
 
-## Repository Structure
-
-```text
-amazon-customer-review-sentiment-analysis/
-│
-├── README.md
-├── dashboard/
-│   └── Amazon_Customer_Review_Sentiment.twbx
-│
-└── images/
-    └── Dashboard.png
